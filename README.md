@@ -19,10 +19,10 @@ A dark VS Code theme with rich ruby and garnet tones. Easy on the eyes for long 
 
 | Name | Description |
 |------|-------------|
-| **Ruby Nights** | Warm dark ruby tones — darker sidebar, lighter editor |
-| **Ruby Nights Midnight** | Deeper, darker ruby for low-light environments |
-| **Ruby Nights Garnet** | Rich wine and burgundy tones with a subtle purple hint |
-| **Ruby Nights Garnet Midnight** | Deeper garnet for maximum depth and contrast |
+| **Ruby Nights — Ruby** | Warm dark ruby tones — darker sidebar, lighter editor |
+| **Ruby Nights — Ruby Midnight** | Deeper, darker ruby for low-light environments |
+| **Ruby Nights — Garnet** | Rich wine and burgundy tones with a subtle purple hint |
+| **Ruby Nights — Garnet Midnight** | Deeper garnet for maximum depth and contrast |
 
 ## Features
 
