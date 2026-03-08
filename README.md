@@ -2,12 +2,12 @@
 
 <img src="icon.png" width="120" alt="Lumos" />
 
-# Lumos Theme
+# Ruby Nights
 
 A dark VS Code theme with rich ruby and garnet tones. Easy on the eyes for long coding sessions, with warm dark backgrounds and four variants to match your preference.
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/lekaledian.lumos-theme?label=Marketplace&color=8a3040)](https://marketplace.visualstudio.com/items?itemName=lekaledian.lumos-theme)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/lekaledian.lumos-theme?color=8a3040)](https://marketplace.visualstudio.com/items?itemName=lekaledian.lumos-theme)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/lekaledian.ruby-nights?label=Marketplace&color=8a3040)](https://marketplace.visualstudio.com/items?itemName=lekaledian.ruby-nights)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/lekaledian.ruby-nights?color=8a3040)](https://marketplace.visualstudio.com/items?itemName=lekaledian.ruby-nights)
 
 </div>
 
@@ -37,7 +37,7 @@ A dark VS Code theme with rich ruby and garnet tones. Easy on the eyes for long 
 
 1. Open VS Code
 2. Go to **Extensions** (`Ctrl+Shift+X`)
-3. Search for `Lumos Theme`
+3. Search for `Ruby Nights`
 4. Click **Install**
 5. Open the Command Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select your variant
 
