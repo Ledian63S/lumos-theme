@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.3] - 2026-03-08
+### Changed
+- Renamed extension and all themes from Lumos to Ruby Nights
+
 ## [1.0.0] - 2026-03-08
 ### Changed
 - Complete redesign — replaced previous variants (Ash, Dark, Onyx) with four new ruby/garnet variants
