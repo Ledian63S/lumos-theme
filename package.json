@@ -1,8 +1,8 @@
 {
     "name": "lumos-theme",
-    "displayName": "Lumos",
-    "description": "A dark theme for VS Code inspired by ruby and firefly. Available in ash, dark, and onyx variants.",
-    "version": "0.2.2",
+    "displayName": "Lumos Theme",
+    "description": "A dark VS Code theme with rich ruby and garnet tones. Available in Ruby, Ruby Midnight, Garnet, and Garnet Midnight variants.",
+    "version": "1.0.0",
     "icon": "icon.png",
     "publisher": "lekaledian",
     "author": {
@@ -12,7 +12,7 @@
     "homepage": "https://ledian63s.github.io/",
     "license": "Apache-2.0",
     "galleryBanner": {
-        "color": "#121214",
+        "color": "#120a11",
         "theme": "dark"
     },
     "engines": {
@@ -24,19 +24,24 @@
     "contributes": {
         "themes": [
             {
-                "label": "Lumos Ash",
+                "label": "Lumos Ruby",
                 "uiTheme": "vs-dark",
                 "path": "./themes/lumos-color-theme.json"
             },
             {
-                "label": "Lumos Dark",
+                "label": "Lumos Ruby Midnight",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lumos-dark-color-theme.json"
+                "path": "./themes/lumos-ruby-midnight.json"
             },
             {
-                "label": "Lumos Onyx",
+                "label": "Lumos Garnet",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lumos-onyx-color-theme.json"
+                "path": "./themes/lumos-garnet.json"
+            },
+            {
+                "label": "Lumos Garnet Midnight",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lumos-garnet-midnight.json"
             }
         ]
     },
@@ -51,6 +56,8 @@
         "theme",
         "dark",
         "lumos",
+        "ruby",
+        "garnet",
         "color-theme"
     ]
 }

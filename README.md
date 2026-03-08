@@ -1,41 +1,64 @@
 <div align="center">
 
-![Lumos](icon.png)
+<img src="icon.png" width="120" alt="Lumos" />
 
-# Lumos
+# Lumos Theme
 
-A dark VS Code theme inspired by ruby and firefly. Clean, minimal, and easy on the eyes — with a blurple accent color and three variants to match your preference.
+A dark VS Code theme with rich ruby and garnet tones. Easy on the eyes for long coding sessions, with warm dark backgrounds and four variants to match your preference.
 
-[![Version](https://img.shields.io/visual-studio-marketplace/v/lekaledian.lumos-theme?label=Marketplace&color=5865f2)](https://marketplace.visualstudio.com/items?itemName=lekaledian.lumos-theme)
-[![Installs](https://img.shields.io/visual-studio-marketplace/i/lekaledian.lumos-theme?color=5865f2)](https://marketplace.visualstudio.com/items?itemName=lekaledian.lumos-theme)
+[![Version](https://img.shields.io/visual-studio-marketplace/v/lekaledian.lumos-theme?label=Marketplace&color=8a3040)](https://marketplace.visualstudio.com/items?itemName=lekaledian.lumos-theme)
+[![Installs](https://img.shields.io/visual-studio-marketplace/i/lekaledian.lumos-theme?color=8a3040)](https://marketplace.visualstudio.com/items?itemName=lekaledian.lumos-theme)
 
 </div>
 
 ---
 
+![Screenshot](screenshot.png)
+
 ## Variants
 
 | Name | Description |
 |------|-------------|
-| **Lumos Ash** | Two-tone — dark sidebar (`#121214`), slightly lighter editor (`#1A1A1E`) |
-| **Lumos Dark** | Fully unified deep dark (`#121214`) |
-| **Lumos Onyx** | Maximum contrast with near-black (`#070709`) |
+| **Lumos Ruby** | Warm dark ruby tones — darker sidebar, lighter editor |
+| **Lumos Ruby Midnight** | Deeper, darker ruby for low-light environments |
+| **Lumos Garnet** | Rich wine and burgundy tones with a subtle purple hint |
+| **Lumos Garnet Midnight** | Deeper garnet for maximum depth and contrast |
 
 ## Features
 
-- Blurple (`#5865f2`) accent color throughout the UI — cursor, active tab indicator, focus borders, selections
-- Subtle blurple tint on editor selections, word highlights, and list items
-- Clear git status colors — bright yellow for modified, green for untracked, red for deleted
-- Unified title bar, tab bar, and sidebar for a seamless, borderless feel
-- Readable muted foregrounds across breadcrumbs, status bar, and inactive tabs
+- Warm ruby and garnet background tones — comfortable for long coding sessions
+- Gold (`#e6b450`) accent color for cursor, badges, and highlights
+- Clear git status colors — sage green for modified, red for deleted, light for untracked
+- Distinct sidebar and editor backgrounds for clear visual separation
+- Subtle line highlight and bracket match colors that don't distract
+- Readable inactive tabs, breadcrumbs, and status bar
 
 ## Install
 
 1. Open VS Code
 2. Go to **Extensions** (`Ctrl+Shift+X`)
-3. Search for `Lumos`
+3. Search for `Lumos Theme`
 4. Click **Install**
 5. Open the Command Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select your variant
+
+## Recommended Setup
+
+For the best experience, add these to your VS Code `settings.json`:
+
+```json
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "editor.cursorBlinking": "expand",
+    "editor.bracketPairColorization.enabled": false,
+    "editor.semanticHighlighting.enabled": true,
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.productIconTheme": "fluent-icons"
+}
+```
+
+> **JetBrains Mono** can be downloaded from [jetbrains.com/mono](https://www.jetbrains.com/mono/).
+> **vscode-icons** and **fluent-icons** are free extensions available in the VS Code Marketplace.
 
 ## Contribute
 
