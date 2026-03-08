@@ -1,0 +1,56 @@
+{
+    "name": "lowkey-gg",
+    "displayName": "lowkey.gg",
+    "description": "A Discord-inspired dark theme for VS Code. Available in ash, dark, and onyx variants.",
+    "version": "0.1.6",
+    "icon": "icon.png",
+    "publisher": "ledianleka",
+    "author": {
+        "name": "Ledian Leka",
+        "url": "https://ledian63s.github.io/"
+    },
+    "homepage": "https://ledian63s.github.io/",
+    "license": "Apache-2.0",
+    "galleryBanner": {
+        "color": "#121214",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.70.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "lowkey.gg ash",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lowkey-gg-color-theme.json"
+            },
+            {
+                "label": "lowkey.gg dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lowkey-gg-dark-color-theme.json"
+            },
+            {
+                "label": "lowkey.gg onyx",
+                "uiTheme": "vs-dark",
+                "path": "./themes/lowkey-gg-onyx-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Ledian63S/lowkey-gg"
+    },
+    "bugs": {
+        "url": "https://github.com/Ledian63S/lowkey-gg/issues"
+    },
+    "keywords": [
+        "theme",
+        "dark",
+        "discord",
+        "lowkey"
+    ]
+}
