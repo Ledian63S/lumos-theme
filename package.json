@@ -42,15 +42,15 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Ledian63S/lowkey-gg"
+        "url": "https://github.com/Ledian63S/lumos-theme"
     },
     "bugs": {
-        "url": "https://github.com/Ledian63S/lowkey-gg/issues"
+        "url": "https://github.com/Ledian63S/lumos-theme/issues"
     },
     "keywords": [
         "theme",
         "dark",
-        "discord",
-        "lowkey"
+        "lumos",
+        "color-theme"
     ]
 }
