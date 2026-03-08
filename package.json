@@ -1,7 +1,7 @@
 {
-    "name": "lowkey-gg",
-    "displayName": "lowkey.gg",
-    "description": "A Discord-inspired dark theme for VS Code. Available in ash, dark, and onyx variants.",
+    "name": "lumos",
+    "displayName": "Lumos",
+    "description": "A dark theme for VS Code inspired by ruby and firefly. Available in ash, dark, and onyx variants.",
     "version": "0.1.6",
     "icon": "icon.png",
     "publisher": "ledianleka",
@@ -24,19 +24,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "lowkey.gg ash",
+                "label": "Lumos ash",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lowkey-gg-color-theme.json"
+                "path": "./themes/lumos-color-theme.json"
             },
             {
-                "label": "lowkey.gg dark",
+                "label": "Lumos dark",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lowkey-gg-dark-color-theme.json"
+                "path": "./themes/lumos-dark-color-theme.json"
             },
             {
-                "label": "lowkey.gg onyx",
+                "label": "Lumos onyx",
                 "uiTheme": "vs-dark",
-                "path": "./themes/lowkey-gg-onyx-color-theme.json"
+                "path": "./themes/lumos-onyx-color-theme.json"
             }
         ]
     },

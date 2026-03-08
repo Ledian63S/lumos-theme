@@ -1,10 +1,10 @@
 <div align="center">
 
-![lowkey.gg](icon.png)
+![Lumos](icon.png)
 
-# lowkey.gg
+# Lumos
 
-A Discord-inspired dark theme for VS Code. Clean, minimal, and easy on the eyes — available in three variants.
+A dark theme for VS Code inspired by ruby and firefly. Clean, minimal, and easy on the eyes — available in three variants.
 
 </div>
 
@@ -14,15 +14,15 @@ A Discord-inspired dark theme for VS Code. Clean, minimal, and easy on the eyes 
 
 | Name | Description |
 |------|-------------|
-| **lowkey.gg ash** | Dark sidebar (`#121214`), slightly lighter editor (`#1A1A1E`) |
-| **lowkey.gg dark** | Everything unified in deep dark (`#121214`) |
-| **lowkey.gg onyx** | Maximum contrast with near-black (`#070709`) |
+| **Lumos ash** | Dark sidebar (`#121214`), slightly lighter editor (`#1A1A1E`) |
+| **Lumos dark** | Everything unified in deep dark (`#121214`) |
+| **Lumos onyx** | Maximum contrast with near-black (`#070709`) |
 
 ## Install
 
 1. Open VS Code
 2. Go to **Extensions** (`Ctrl+Shift+X`)
-3. Search for `lowkey.gg`
+3. Search for `Lumos`
 4. Click **Install**
 5. Open the Command Palette (`Ctrl+Shift+P`) → **Preferences: Color Theme** → select your variant
 
