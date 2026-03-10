@@ -56,6 +56,9 @@
 		"list.inactiveSelectionBackground": "#343434",
 		"list.inactiveSelectionForeground": "#D9D7CE",
 		"list.invalidItemForeground": "#2e323c",
+		"quickInput.background": "#140c14",
+		"quickInputList.focusBackground": "#2c1529",
+		"quickInputList.focusHighlightForeground": "#e6b450",
 	
 		"activityBar.background": "#130a12",
 		"activityBar.foreground": "#fdfefe",
@@ -74,6 +77,9 @@
 		"editorGroupHeader.noTabsBackground": "#120a12",
 		"editorGroupHeader.tabsBackground": "#170e16",
 		"editorGroupHeader.tabsBorder": "#120a12",
+
+		"editorStickyScroll.background": "#1c1220",
+		"editorStickyScrollHover.background": "#221528",
 
 		"breadcrumb.background": "#170e16",
 		"breadcrumb.foreground": "#a0a8bd",
@@ -106,6 +112,7 @@
 
 		"editor.wordHighlightBackground": "#351b32",
 		"editor.wordHighlightStrongBackground": "#e6b45033",
+		"editorGhostText.foreground": "#735868",
 
 		"editor.findMatchBackground": "#e6b4500d",
 		"editor.findMatchBorder": "#e6b450",
@@ -127,6 +134,13 @@
 		"editorCodeLens.foreground": "#626a73",
 		"editorBracketMatch.background": "#3c2e364d",
 		"editorBracketMatch.border": "#6b4a5e99",
+		"editorBracketHighlight.foreground1": "#e6b450",
+		"editorBracketHighlight.foreground2": "#39bae6",
+		"editorBracketHighlight.foreground3": "#91b362",
+		"editorBracketHighlight.foreground4": "#f07178",
+		"editorBracketHighlight.foreground5": "#f29668",
+		"editorBracketHighlight.foreground6": "#827db5",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#ff3333",
 		"editorOverviewRuler.border": "#080006",
 		"editorOverviewRuler.modifiedForeground": "#6994bf99",
 		"editorOverviewRuler.addedForeground": "#91b36299",
@@ -150,6 +164,8 @@
 		"debugExceptionWidget.border": "#080006",
 		"debugExceptionWidget.background": "#140c14",
 		"editorMarkerNavigation.background": "#140c14",
+		"editorInlayHint.background": "#2c1529",
+		"editorInlayHint.foreground": "#c09ab8",
 		
 		"peekView.border": "#080006",
 		"peekViewEditor.background": "#140c14",
@@ -188,6 +204,11 @@
 		"pickerGroup.foreground": "#242831",
 		"debugToolBar.background": "#140c14",
 		"walkThrough.embeddedEditorBackground": "#140c14",
+
+		"notificationCenter.border": "#21191e",
+		"notificationsErrorIcon.foreground": "#ff3333",
+		"notificationsWarningIcon.foreground": "#e6b450",
+		"notificationsInfoIcon.foreground": "#39bae6",
 
 		"gitDecoration.modifiedResourceForeground": "#7aab7a",
 		"gitDecoration.deletedResourceForeground": "#d96c75",
